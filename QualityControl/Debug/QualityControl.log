@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\vadim\documents\visual studio 2017\projects\qualitycontrol\qualitycontrol\main.cpp(65): warning C4101: ex: неиспользованная локальная переменная
+c:\users\vadim\documents\visual studio 2017\projects\qualitycontrol\qualitycontrol\main.cpp(70): warning C4101: ex: неиспользованная локальная переменная
+  QualityControl.vcxproj -> c:\users\vadim\documents\visual studio 2017\Projects\QualityControl\Debug\Triangle.exe
+  QualityControl.vcxproj -> c:\users\vadim\documents\visual studio 2017\Projects\QualityControl\Debug\Triangle.pdb (Partial PDB)
